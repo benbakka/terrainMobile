@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Geolocalisation</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string-array name="planets_array">
+        <item>massira</item>
+        <item>mhamid</item>
+        <item>bouakaz</item>
+
+    </string-array>
+    <string-array name="planets_array1">
+        <item>Marrakech</item>
+        <item>Rabat</item>
+    </string-array>
+    <string-array name="planets_array2">
+        <item>Luma</item>
+        <item>Restaurant Best place</item>
+        <item>LE PASSAGE </item>
+
+    </string-array>
+
+</resources>
